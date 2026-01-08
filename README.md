@@ -1,114 +1,108 @@
-<h1 align="center">Hi 👋, I'm Omkar Vinod Donur</h1>
-<h3 align="center">Full Stack Developer (Backend-Focused) | Building Production-Grade Systems</h3>
+<h1 align="center">Omkar Vinod Donur</h1>
+<h3 align="center">Full Stack Developer (Backend-Focused)</h3>
 
 <p align="center">
-  <a href="mailto:omkardonur@gmail.com"><img src="https://img.shields.io/badge/Email-omkardonur%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/omkarvinoddonur"><img src="https://img.shields.io/badge/LinkedIn-Omkar%20Donur-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/omkardonur53"><img src="https://img.shields.io/badge/GitHub-omkardonur53-black?style=flat-square&logo=github"></a>
+  <a href="mailto:omkardonur@gmail.com">
+    <img src="https://img.shields.io/badge/Email-omkardonur%40gmail.com-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/omkarvinoddonur">
+    <img src="https://img.shields.io/badge/LinkedIn-Omkar%20Donur-blue?style=flat-square&logo=linkedin">
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I’m a **Full Stack Developer with 1.5+ years of real-world production experience**, currently working at **Airowire Networks**.  
-My core strength lies in **backend engineering**, API design, and building **secure, scalable internal platforms** used by real teams every day.
+I am a **Full Stack Developer with 1.5+ years of production experience**, currently working at **Airowire Networks**.  
+My work primarily focuses on **backend engineering**, API design, and building **secure, scalable internal enterprise platforms**.
 
-I’ve worked across the full stack — from **React UI** to **Flask APIs**, **authentication systems**, **database design**, and **Dockerized deployments** — and I currently **lead a small engineering team**.
-
-I care about:
-- Clean architecture
-- Security & permissions
-- Maintainability
-- Ownership of systems
+I have hands-on experience across the full stack — from **React-based interfaces** to **Flask REST APIs**, **authentication systems**, **database design**, and **Dockerized deployments**.  
+In addition to development, I actively contribute to **technical decisions, code reviews**, and **mentoring junior engineers**.
 
 ---
 
-## 🧠 What I Work On (Production Focus)
+## What I Build
 
-- 🏢 Internal enterprise platforms
-- 🔐 Authentication & Authorization (JWT, RBAC)
-- ⚙️ REST API design & backend architecture
-- 📊 Dashboards, reporting, pagination, filters
-- 🐳 Docker-based deployments
-- 👥 Team leadership & code reviews
+- Internal enterprise platforms used by real teams in production
+- Secure authentication and authorization systems (JWT, RBAC)
+- Scalable RESTful APIs and modular backend architectures
+- Data-driven dashboards with filtering, pagination, and reporting
+- Containerized services using Docker
+- Maintainable systems with long-term ownership in mind
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white)
 
-### 🌐 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
 
-### ⚙️ Backend
+### Backend
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![REST API](https://img.shields.io/badge/REST-API-green?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST-APIs-green?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-purple?style=flat-square)
 ![RBAC](https://img.shields.io/badge/RBAC-Authorization-orange?style=flat-square)
 
-### 🗄️ Database
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
-### 🚢 DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 ---
 
-## 🧩 Featured Projects
+## Selected Work
 
-### 🏢 Enterprise Internal Management Platform
+### Enterprise Internal Management Platform  
 **Tech:** React.js · Flask · MySQL · Docker · JWT  
 
-- Multi-module internal platform supporting:
+- Designed and developed a multi-module internal enterprise platform supporting:
   - Payout Management
-  - Task & Ticket Management
+  - Task and Ticket Management
   - Asset Handling
   - Certifications
-  - User & Permission Management
-- Implemented **JWT-based authentication** and **fine-grained RBAC**
-- Built scalable APIs and reusable UI components
-- Actively used in production by internal teams
+  - User and Permission Management
+- Implemented **JWT-based authentication** with **fine-grained RBAC**
+- Built reusable backend services and frontend components
+- Actively used in production across internal teams
 
 ---
 
-### 🛡️ Malware Detection System
+### Malware Detection System  
 **Tech:** Python · Flask · Machine Learning  
 
-- Machine learning-based system to classify executable files
-- Backend APIs to expose prediction services
-- Focused on real-world cybersecurity use cases
+- Developed a machine learning-based system to classify executable files as malware or benign
+- Built backend APIs to expose prediction services
+- Focused on practical cybersecurity use cases
 
 ---
 
-## 👨‍👩‍👦 Leadership & Collaboration
+## Leadership & Engineering Culture
 
-- 👥 Lead a team of 3 engineers
-- 🔍 Conduct code reviews & design discussions
-- 📚 Mentor junior developers
-- 🧠 Strong focus on clean code & long-term maintainability
+- Lead a small engineering team and coordinate feature delivery
+- Conduct code reviews and participate in architectural discussions
+- Mentor junior developers and promote clean coding practices
+- Strong focus on maintainability, clarity, and long-term system health
 
 ---
 
-## 📚 Currently Learning
-
-I’m actively upskilling toward **cloud-native and platform engineering**:
+## Currently Learning
 
 - CI/CD pipelines (Jenkins)
 - Cloud platforms (AWS)
-- Kubernetes
-- System design & scalability
+- Kubernetes and container orchestration
+- System design and scalability
 - Security best practices
 
 ---
-
-⭐ *I enjoy building systems that last — and I’m always open to interesting engineering challenges.*
