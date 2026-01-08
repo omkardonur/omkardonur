@@ -62,8 +62,6 @@ In addition to development, I actively contribute to **technical decisions, code
 
 ---
 
-## Selected Work
-
 ### Enterprise Internal Management Platform  
 **Tech:** React.js · Flask · MySQL · Docker · JWT  
 
