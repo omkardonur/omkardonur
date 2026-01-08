@@ -111,20 +111,4 @@ I’m actively upskilling toward **cloud-native and platform engineering**:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkardonur53&show_icons=true&hide_title=true" />
-</p>
-
----
-
-## 📫 Let’s Connect
-
-- 📧 **Email:** omkardonur@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/omkarvinoddonur  
-- 💻 **GitHub:** https://github.com/omkardonur53  
-
----
-
 ⭐ *I enjoy building systems that last — and I’m always open to interesting engineering challenges.*
